@@ -7,7 +7,6 @@ import secrets
 import string
 
 import customtkinter as ctk
-import time
 
 # definition of the appareance of the window
 ctk.set_appearance_mode("dark")
