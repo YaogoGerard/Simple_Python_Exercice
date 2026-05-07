@@ -1,6 +1,6 @@
 # Simple Python Exercises
 
-This project contains several small Python programs you can run in the terminal.
+This project contains several small Python programs you can run in the terminal (and one GUI app).
 
 ## Included Programs
 
@@ -19,5 +19,10 @@ This project contains several small Python programs you can run in the terminal.
 - **Tic Tac Toe** (`Tic_Tac_Toe/game.py` + `Tic_Tac_Toe/player.py`)  
   Tic-tac-toe game against a computer that plays randomly.
 
+- **Password Generator** (`Password_Generator/PG.py`)  
+  GUI app that generates a secure password and lets you copy it.
+
 ## Running
 Each program is launched from its folder with `python filename.py`.
+
+For the Password Generator, install dependencies first with `pip install -r requirements.txt`.
