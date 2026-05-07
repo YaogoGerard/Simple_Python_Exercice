@@ -60,7 +60,7 @@ class PasswordGenerator(ctk.CTk):
         self.update()
 
     def reset(self):
-        # reset the copy after 2 seconds
+        # reset the copy after 2 second
         self.copy_button.configure(text="Copier")
         self.update()
 
